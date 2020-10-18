@@ -55,6 +55,7 @@ namespace overiding_example
             {
                 h[i].walk();
             }
+            Console.WriteLine("효과는 굉장했다!");
         }
     }
 }
